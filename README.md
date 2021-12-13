@@ -1,4 +1,12 @@
 ### Hi there 👋
+Passionate about the SaaS world, I've spend years on Sales and Solution Engineering for Salesforce.
+After a few experiences in startups, trained in Web Development @Le Wagon, ready to bring some experiences/expertise to exciting new projects!
+
+❤️️ OOP, Ruby on Rails, HTML, CSS, Bootstraping
+😎 Javascript, DB management
+😉 API management
+
+Currently working on a personal project, highly interested in participating in exciting initiatives in my fields.
 
 <!--
 **romainp72/romainp72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
